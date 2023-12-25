@@ -1,0 +1,5 @@
+4
+Rupees, 5
+Rupees, 4
+Rupees, 3
+Rupees, 1
