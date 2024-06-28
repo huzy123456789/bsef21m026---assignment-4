@@ -96,4 +96,4 @@ The program takes two input sequences, S1 and S2, for which the LCS needs to be 
 ### Note
 
 - The dynamic programming approach is recommended for larger input sequences due to its polynomial time complexity,
-whereas the simple recursion approach may be impractical for larger inputs.
+whereas the simple recursion approach may be impractical for larger inputs. xd
